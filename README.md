@@ -5,7 +5,7 @@ A Neutralino Project with Sveltekit + Tailwindcss
 ### Get Started
 
 ```
-gitclone https://github.com/mattiabottes/neu-svelte your-app-name
+git clone https://github.com/mattiabottes/neu-svelte your-app-name
 ```
 
 ```
