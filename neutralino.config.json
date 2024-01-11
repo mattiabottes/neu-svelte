@@ -1,0 +1,29 @@
+{
+  "applicationId": "it.mattiabottes.myapp",
+  "version": "0.0.1",
+  "defaultMode": "window",
+  "documentRoot": "/svelte/build/",
+  "url": "/",
+  "enableServer": true,
+  "enableNativeAPI": true,
+  "nativeAllowList": ["app.*", "computer.*"],
+  "modes": {
+    "window": {
+      "title": "My App",
+      "width": 800,
+      "height": 500,
+      "minWidth": 400,
+      "minHeight": 200,
+      "icon": "/svelte/static/favicon.png",
+      "borderless": false,
+      "exitProcessOnClose": true
+    }
+  },
+  "cli": {
+    "binaryName": "app",
+    "resourcesPath": "/svelte/build/",
+    "extensionsPath": "/extensions/",
+    "binaryVersion": "4.14.1",
+    "clientVersion": "3.12.0"
+  }
+}

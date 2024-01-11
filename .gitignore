@@ -1,0 +1,25 @@
+# Developer tools' files
+.lite_workspace.lua
+
+# Neutralinojs binaries and builds
+/bin
+/dist
+
+# Neutralinojs client (minified)
+neutralino.js
+
+# Neutralinojs related files
+.storage
+*.log
+
+# Svelte node packages and builds
+/svelte/.DS_Store
+/svelte/node_modules
+/svelte/build
+/svelte/.svelte-kit
+/svelte/package
+/svelte/.env
+/svelte/.env.*
+/svelte/!.env.example
+/svelte/vite.config.js.timestamp-*
+/svelte/vite.config.ts.timestamp-*
