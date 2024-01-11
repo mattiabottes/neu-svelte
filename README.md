@@ -9,6 +9,10 @@ git clone https://github.com/mattiabottes/neu-svelte your-app-name
 ```
 
 ```
+cd your-app-name
+```
+
+```
 cd svelte
 ```
 
